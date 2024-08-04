@@ -1,7 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-../reset.css
+#../reset.css
 # Editor-based HTTP Client requests
 /httpRequests/
 
